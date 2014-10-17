@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[kez:home|Door43 (kez)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-kez|d43-kez repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-kez/archive/master.zip|d43-kez.zip]]
+
+**Recent Changes**
+{{changes>ns = kez}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/kez|Ethnologue data]]
+
